@@ -33,7 +33,7 @@ The boot splash logo is part of the Plymouth theme:
 
 Before making changes, back up the original:
 
-```bash
+```ini
 sudo cp /usr/share/plymouth/themes/zorin-logo/animation-00.png \
 /usr/share/plymouth/themes/zorin-logo/animation-00.png.bak
 ```
