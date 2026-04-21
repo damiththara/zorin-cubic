@@ -61,6 +61,6 @@ Log out and back in, or reboot:
 sudo reboot
 ```
 📝 Notes
--Avoid using gtk-update-icon-cache here — Plymouth does not rely on GTK icon cache
--System updates may restore the original logo — reapply if needed
--Incorrect dimensions or file format may prevent the logo from displaying correctly
+- Avoid using gtk-update-icon-cache here — Plymouth does not rely on GTK icon cache
+- System updates may restore the original logo — reapply if needed
+- Incorrect dimensions or file format may prevent the logo from displaying correctly
