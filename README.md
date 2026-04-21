@@ -19,9 +19,9 @@ This guide explains how to replace the default start menu icon in Zorin OS with 
 
 The default icon is located at:
 
-\`\`\`
+```bash
 /usr/share/gnome-shell/extensions/zorin-menu@zorinos.com/
-\`\`\`
+```
 
 ---
 
@@ -29,10 +29,10 @@ The default icon is located at:
 
 Before making changes, back up the original icon:
 
-\`\`\`bash
+```bash
 sudo mv /usr/share/gnome-shell/extensions/zorin-menu@zorinos.com/zorin-icon-symbolic.svg \\
 /usr/share/gnome-shell/extensions/zorin-menu@zorinos.com/zorin-icon-symbolic.svg.bak
-\`\`\`
+```
 
 ---
 
@@ -52,10 +52,10 @@ sudo mv /usr/share/gnome-shell/extensions/zorin-menu@zorinos.com/zorin-icon-symb
 
 Open Terminal (\`Ctrl + Alt + T\`) and run:
 
-\`\`\`bash
+```bash
 cd ~/Desktop   # Change this if your file is elsewhere
 sudo cp zorin-icon-symbolic.svg /usr/share/gnome-shell/extensions/zorin-menu@zorinos.com/
-\`\`\`
+```
 
 - Enter your password when prompted  
 - This will overwrite the default icon  
@@ -66,9 +66,9 @@ sudo cp zorin-icon-symbolic.svg /usr/share/gnome-shell/extensions/zorin-menu@zor
 
 Reboot your system:
 
-\`\`\`bash
+```bash
 sudo reboot
-\`\`\`
+```
 
 ---
 
