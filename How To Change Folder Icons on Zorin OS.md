@@ -82,9 +82,9 @@ Select your newly installed icon theme
 📝 Notes
 
 You can install themes system-wide by placing them in:
-
-- /usr/share/icons/
-
+```bash
+/usr/share/icons/
+```
 
 - Some themes may require logout/restart to fully apply
 - If icons don’t change, ensure the folder structure is correct
