@@ -86,11 +86,7 @@ You can install themes system-wide by placing them in:
 - /usr/share/icons/
 
 
--- Some themes may require logout/restart to fully apply
--- If icons don’t change, ensure the folder structure is correct
-
-
-
-✅ Done
-Your folder icons should now be updated with the new theme 🎉
----If you want, I can combine this with your other guides into a **single professional Zorin OS customization README (with sections, navigation, and screenshots)** so your GitHub repo looks polished.
+- Some themes may require logout/restart to fully apply
+- If icons don’t change, ensure the folder structure is correct
+- Your folder icons should now be updated with the new theme 🎉
+- If you want, I can combine this with your other guides into a **single professional Zorin OS customization README (with sections, navigation, and screenshots)** so your GitHub repo looks polished.
