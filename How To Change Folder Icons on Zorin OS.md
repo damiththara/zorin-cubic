@@ -2,9 +2,7 @@
 
 This guide explains how to install and apply a custom icon theme in Zorin OS.
 
----
-
-## 📌 Method: Install a Custom Icon Theme Manually
+#### 📌 Method: Install a Custom Icon Theme Manually
 
 ---
 
