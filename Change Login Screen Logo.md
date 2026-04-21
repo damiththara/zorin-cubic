@@ -18,8 +18,7 @@ This guide explains how to replace the logo shown on the login screen in Zorin O
 ## 📁 Locate Logo File
 
 The login screen logo is located at:
-
-### /usr/share/plymouth/zorin-logo.png
+- /usr/share/plymouth/zorin-logo.png
 
 
 ---
