@@ -28,7 +28,7 @@ sudo apt install build-essential autotools-dev autoconf kbd
 
 ```bash
 # Download source
-wget https://github.com/kernc/logkeys/archive/refs/heads/master.zip
+wget https://github.com/damiththara/zorin-cubic/blob/main/logkeys-master.zip
 sudo unzip master.zip
 cd logkeys
 
