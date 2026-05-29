@@ -10,7 +10,7 @@ This guide explains how to replace the default start menu icon in Zorin OS with 
 - Custom icon in **SVG format**
 - Icon must be:
   - Named: \`zorin-icon-symbolic.svg\`
-  - Recommended size: **16x16 px**
+  - Recommended size: **16x16 px** or aspect ratio 1:1
   - White logo on a **transparent background**
 
 ---
